@@ -10,6 +10,7 @@ body, html { height:100%; }
 }
 
 .main-container {
+    display: inline-block;
     width: 100%;
     height: 100%;
 }
@@ -17,19 +18,16 @@ body, html { height:100%; }
     float: left;
     width: 80%;
     height: 100%;
-    margin-right:5px;
-    /* border: 10px;
-    margin-right: 5px;
-    border-color: #000000;*/
+    margin-right:0px;
+    /* border: 5px; */
 }
 
 .controls-container {
     float: left;
-    width: 20%;
+    /* width: 20%; */
     height: 100%;
-    margin-left:5px;
-    /* border: 10px;
-    margin-left:  5px;
-    border-color: #000000;*/
+    margin-left:40px;
+    margin-top: 40px;
+    /* border: 6px; */
 }
 
