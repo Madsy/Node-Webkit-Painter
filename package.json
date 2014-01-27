@@ -1,0 +1,14 @@
+{
+    "name": "Node-Webkit Painter",
+    "version": "1",
+    "main": "index.html",
+    "window": {
+        "frame": true,
+        "width": 1024,
+        "height": 768,
+        "toolbar": false,
+        "position": "center",
+        "resizable": false
+    }
+}
+
